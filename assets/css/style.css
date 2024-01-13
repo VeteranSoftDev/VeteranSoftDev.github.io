@@ -853,6 +853,10 @@ section {
   box-shadow: 0 0 24px 0 rgba(0, 0, 0, 0.12);
 }
 
+.contact img{
+  width: 400px;
+}
+
 .contact .info i {
   font-size: 20px;
   color: #149ddd;
